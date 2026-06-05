@@ -187,17 +187,17 @@ ORDER BY spending_rank;
 |---|---|
 | MySQL 8.0 | Database engine |
 | MySQL Workbench | Query development & ERD |
-| VS Code | SQL editing |
+| SQL editing |
 | GitHub | Version control & portfolio |
 
 ---
 
 ## 👤 Author
 
-**[Your Name]**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: your@email.com
+**Gowtham Ravindran**
+- LinkedIn: linkedin.com/in/gowthamravindran06
+- GitHub: github.com/Gowtham0608
+- Email: gowthamr.analyst06@gmail.com
 
 ---
 
