@@ -195,8 +195,8 @@ ORDER BY spending_rank;
 ## 👤 Author
 
 **Gowtham Ravindran**
-- LinkedIn: linkedin.com/in/gowthamravindran06
-- GitHub: github.com/Gowtham0608
+- LinkedIn: [linkedin.com/in/gowthamravindran06](https://www.linkedin.com/in/gowthamravindran06/)
+- GitHub: https://github.com/Gowtham0608
 - Email: gowthamr.analyst06@gmail.com
 
 ---
