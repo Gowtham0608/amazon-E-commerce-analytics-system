@@ -205,6 +205,3 @@ ORDER BY spending_rank;
 
 This project is open source under the [MIT License](LICENSE).
 
----
-
-> ⭐ If this project helped you, please consider giving it a star on GitHub!
